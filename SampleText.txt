@@ -1,3 +1,1 @@
 Hello World this is Manthan Vijaywargia.
-
-This is modified text added to SampleText.txt
